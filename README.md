@@ -8,9 +8,9 @@ I am Shubhdeep, an 18 y/o technology enthusiast pursuing B.Tech CSE from [Geeta 
 
 ### 🌟 A bit more about me:
 
-- 🔭 I’m currently working on []
+- 🔭 I’m currently working on [Small Projects](https://github.com/TheKaushikGoswami/Small-Projects)
 - 🌱 I’m currently learning `C, PHP, JS`
-- 🤔 I’m looking for help with []
+- 🤔 I’m looking for help with [Small Projects](https://github.com/TheKaushikGoswami/Small-Projects)
 - 💬 Ask me about `Front-end Web Development`
 - 📫 How to reach me: shubhu0213@gmail.com
 - 😄 Pronouns: **She/Her**
